@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-14 11:42",
+  "opdateret": "2026-11-15 12:12",
   "vindue": [
-    "2026-11-14",
-    "2027-03-14"
+    "2026-11-15",
+    "2027-03-15"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,80 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 94,
-      "hentet": "2026-11-14"
+      "count": 92,
+      "hentet": "2026-11-15"
     },
     "v": {
       "ok": true,
-      "count": 29,
-      "hentet": "2026-11-14"
+      "count": 28,
+      "hentet": "2026-11-15"
     },
     "m": {
-      "ok": false,
-      "fejl": "0 koncerter fundet efter flere forsøg — siden kan have ændret sig",
-      "beholdt": 42
+      "ok": true,
+      "count": 45,
+      "hentet": "2026-11-15"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-14"
+      "hentet": "2026-11-15"
     }
   },
   "events": [
-    {
-      "date": "2026-11-14",
-      "artist": "Baest + Support Deadnate",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/baest-2/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-1536x1920.jpg"
-    },
-    {
-      "date": "2026-11-14",
-      "artist": "DM Brass 2026",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/dm-brass-2026",
-      "image": "https://www.datocms-assets.com/98810/1757668841-feature_29839.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-14",
-      "artist": "Fra glemsel til genopdagelse: Releasekoncert for RESURGENCE",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/fra-glemsel-til-genopdagelse-releasekoncert-for-resurgence",
-      "image": "https://www.datocms-assets.com/98810/1791457238-janne-fredens-s-c3-b8ren-rastogi-e1680101533572.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-14",
-      "artist": "Lakes & Fires",
-      "venue": "t",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://train.dk/kalender/lakes-fires-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/688c03bfbdf7a8221b74c4dcd387ea8d21e89e48-1770x1420.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-14",
-      "artist": "MD-DUO",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/md-duo-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7a6716cce981edd380b871fe703b75e34daefb9b-4961x2784.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-14",
-      "artist": "Poul Krebs Gallakoncert",
-      "venue": "m",
-      "status": "Venteliste",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/poul-krebs-gallakoncert",
-      "image": "https://www.datocms-assets.com/98810/1757673044-feature_29668.png?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-15",
       "artist": "AFLYST: Klavermatiné",
@@ -269,7 +215,7 @@
     },
     {
       "date": "2026-11-20",
-      "artist": "Prong + Support Grope",
+      "artist": "Prong + Support Grope & Harmful",
       "venue": "v",
       "status": "",
       "note": "",
@@ -655,6 +601,24 @@
       "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_band-scaled.jpg?auto=format&fit=max&w=1200"
     },
     {
+      "date": "2026-12-02",
+      "artist": "Fløjteaften: Fløjte og klaver",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/floejteaften-floejte-og-klaver-2",
+      "image": "https://www.datocms-assets.com/98810/1786359661-floejter_kirke2026_mh-4.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-02",
+      "artist": "Rytmiske Semesterkoncerter Aarhus",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rytmiske-semesterkoncerter-aarhus-2",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_band-scaled-2.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-12-03",
       "artist": "Chris Burton",
       "venue": "t",
@@ -662,6 +626,24 @@
       "note": "",
       "url": "https://train.dk/kalender/chris-burton-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/590c01b47de397b17a2e98eb506b93cd9c963cff-1869x2347.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-12-03",
+      "artist": "Danish Youth Jazz Orchestra: Nordic Impressions",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/danish-youth-jazz-orchestra-nordic-impressions",
+      "image": "https://www.datocms-assets.com/98810/1791291640-1_danish-youth-jazz-orchestra-mathias-bak-larsen-13_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-03",
+      "artist": "Pauline",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/pauline",
+      "image": "https://www.datocms-assets.com/98810/1776938434-feature_33773.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-04",
@@ -698,6 +680,24 @@
       "note": "",
       "url": "https://train.dk/kalender/roya-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/1e922343eeb6f77e083823ee8e9d5771c74efaab-1648x1702.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-12-04",
+      "artist": "Sjostakovitj 11",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/sjostakovitj-11",
+      "image": "https://www.datocms-assets.com/98810/1774306897-feature_32631.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-04",
+      "artist": "Solistkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/solistkoncert-mira-siegel-komposition",
+      "image": "https://www.datocms-assets.com/98810/1793278839-mira_siegel_mh.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-05",
@@ -1364,8 +1364,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/the-hello-darlins-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3081db2ba331611bd0afdea6f66587ffc3b22b0a-4000x2828.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/the-hello-darlins-2027"
     },
     {
       "date": "2027-02-25",
@@ -1570,8 +1569,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/bye-bye-brenda-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b60bb312cd880ffac2889d28f36d4481e153962e-1974x2467.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/bye-bye-brenda-2027"
     },
     {
       "date": "2027-03-14",

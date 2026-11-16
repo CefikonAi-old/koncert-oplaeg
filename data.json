@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-15 12:12",
+  "opdateret": "2026-11-16 13:04",
   "vindue": [
-    "2026-11-15",
-    "2027-03-15"
+    "2026-11-16",
+    "2027-03-16"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,53 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 92,
-      "hentet": "2026-11-15"
+      "count": 91,
+      "hentet": "2026-11-16"
     },
     "v": {
       "ok": true,
       "count": 28,
-      "hentet": "2026-11-15"
+      "hentet": "2026-11-16"
     },
     "m": {
       "ok": true,
       "count": 45,
-      "hentet": "2026-11-15"
+      "hentet": "2026-11-16"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-15"
+      "hentet": "2026-11-16"
     }
   },
   "events": [
-    {
-      "date": "2026-11-15",
-      "artist": "AFLYST: Klavermatiné",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/klavermatine-12",
-      "image": "https://www.datocms-assets.com/98810/1761627624-rama_komponistklassen_dsc3173_header-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-15",
-      "artist": "Joan As Police Woman",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/joan-as-police-woman-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e3ae34cb910ec58de8259e0abf98cb6bb459dd59-2906x2452.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-15",
-      "artist": "Lise de la Salle",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/lise-de-la-salle",
-      "image": "https://www.datocms-assets.com/98810/1775718626-feature_33245.png?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-16",
       "artist": "AFLYST: Koncert med tidlig musik",
@@ -656,6 +629,15 @@
     },
     {
       "date": "2026-12-04",
+      "artist": "Jo Harrop",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/jo-harrop",
+      "image": "https://www.datocms-assets.com/98810/1770287436-feature_31142.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-04",
       "artist": "OG DU LYSER",
       "venue": "t",
       "status": "",
@@ -698,6 +680,15 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/solistkoncert-mira-siegel-komposition",
       "image": "https://www.datocms-assets.com/98810/1793278839-mira_siegel_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-04",
+      "artist": "Violinaften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/violinaften-11",
+      "image": "https://www.datocms-assets.com/98810/1755579614-dsc_0926.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-05",
@@ -1364,7 +1355,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/the-hello-darlins-2027"
+      "url": "https://train.dk/kalender/the-hello-darlins-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3081db2ba331611bd0afdea6f66587ffc3b22b0a-4000x2828.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-25",
@@ -1569,7 +1561,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/bye-bye-brenda-2027"
+      "url": "https://train.dk/kalender/bye-bye-brenda-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b60bb312cd880ffac2889d28f36d4481e153962e-1974x2467.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-03-14",

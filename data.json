@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-16 13:04",
+  "opdateret": "2026-11-17 13:46",
   "vindue": [
-    "2026-11-16",
-    "2027-03-16"
+    "2026-11-17",
+    "2027-03-17"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,44 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 91,
-      "hentet": "2026-11-16"
+      "count": 92,
+      "hentet": "2026-11-17"
     },
     "v": {
       "ok": true,
       "count": 28,
-      "hentet": "2026-11-16"
+      "hentet": "2026-11-17"
     },
     "m": {
       "ok": true,
-      "count": 45,
-      "hentet": "2026-11-16"
+      "count": 43,
+      "hentet": "2026-11-17"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-16"
+      "hentet": "2026-11-17"
     }
   },
   "events": [
-    {
-      "date": "2026-11-16",
-      "artist": "AFLYST: Koncert med tidlig musik",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik-2",
-      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-16",
-      "artist": "Debutkoncert",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/debutkoncert-rasmus-dahl-klaver",
-      "image": "https://www.datocms-assets.com/98810/1728644451-rasmusdahl_solist-scaled.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-17",
       "artist": "AFLYST: Solistkoncert",
@@ -724,7 +706,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/q-marsden-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7eb56c4383df68e4835ab106f642e2f30b1435a1-3859x4377.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f3f7c6d0dcd21d840dcf85d0c7e2a580e4ad882c-3527x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-08",
@@ -1572,6 +1554,15 @@
       "note": "",
       "url": "https://train.dk/kalender/gaardsangerne-fra-thy-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f73c554175898254e85597ebc7e1d3978eaf5361-3543x2657.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-17",
+      "artist": "Saad Tiouly",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/saad-tiouly-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c0311b49ef229f62f32722b13acf29cb82bcf4d1-1920x1280.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }

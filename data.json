@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-17 13:46",
+  "opdateret": "2026-11-18 13:23",
   "vindue": [
-    "2026-11-17",
-    "2027-03-17"
+    "2026-11-18",
+    "2027-03-18"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,52 +14,25 @@
     "t": {
       "ok": true,
       "count": 92,
-      "hentet": "2026-11-17"
+      "hentet": "2026-11-18"
     },
     "v": {
       "ok": true,
       "count": 28,
-      "hentet": "2026-11-17"
+      "hentet": "2026-11-18"
     },
     "m": {
       "ok": true,
-      "count": 43,
-      "hentet": "2026-11-17"
+      "count": 40,
+      "hentet": "2026-11-18"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-17"
+      "hentet": "2026-11-18"
     }
   },
   "events": [
-    {
-      "date": "2026-11-17",
-      "artist": "AFLYST: Solistkoncert",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/solistkoncert-clemente-prudencio-klaver-3",
-      "image": "https://www.datocms-assets.com/98810/1778734836-original-mh_ny.jpeg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-17",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-4",
-      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_bas_guitar-scaled-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-17",
-      "artist": "Trompetaften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/trompetaften",
-      "image": "https://www.datocms-assets.com/98810/1717079749-rama_dk_4321.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-18",
       "artist": "Ana Juél",
@@ -269,7 +242,7 @@
     },
     {
       "date": "2026-11-23",
-      "artist": "Træblæserkoncert",
+      "artist": "AFLYST: Træblæserkoncert",
       "venue": "m",
       "status": "",
       "note": "",
@@ -1187,8 +1160,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/warhaus-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b74009c89f5fb62e27bdac99dd2c6603d061c757-2000x2392.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/warhaus-2027"
     },
     {
       "date": "2027-02-11",
@@ -1205,8 +1177,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/panzerchrist-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/77f1015009e4a97ecfd962382118d5f2120eb79b-4902x3268.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/panzerchrist-2027"
     },
     {
       "date": "2027-02-11",

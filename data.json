@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-18 13:23",
+  "opdateret": "2026-11-19 13:46",
   "vindue": [
-    "2026-11-18",
-    "2027-03-18"
+    "2026-11-19",
+    "2027-03-19"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,71 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 92,
-      "hentet": "2026-11-18"
+      "count": 91,
+      "hentet": "2026-11-19"
     },
     "v": {
       "ok": true,
       "count": 28,
-      "hentet": "2026-11-18"
+      "hentet": "2026-11-19"
     },
     "m": {
       "ok": true,
-      "count": 40,
-      "hentet": "2026-11-18"
+      "count": 37,
+      "hentet": "2026-11-19"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-18"
+      "hentet": "2026-11-19"
     }
   },
   "events": [
-    {
-      "date": "2026-11-18",
-      "artist": "Ana Juél",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/ana-juel-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5c1d41e02d763324a607967605c225bc77325d48-5158x4480.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-18",
-      "artist": "Beth Hart",
-      "venue": "m",
-      "status": "Venteliste",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/beth-hart",
-      "image": "https://www.datocms-assets.com/98810/1741775428-feature_26280.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-18",
-      "artist": "Bratschaften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/bratschaften",
-      "image": "https://www.datocms-assets.com/98810/1763623946-bratsch2_nmfs18_mh-ny.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-18",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-5",
-      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_sang1-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-18",
-      "artist": "ULD",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/uld-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fd819f9e019adb567038dd6a80ee12bf11a09820-4000x2666.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-19",
       "artist": "Allan Olsen & Det Sidste Slæng",
@@ -94,7 +49,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/dahlin-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/85a43f7df2be2cdfffaf9c5e0cdf30d85cfcf2e5-6336x6960.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ababa4757367cb62b9706e4a097cbfa1237e8ff8-3641x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-19",
@@ -767,8 +722,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/niah-steiner-ankah-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/af2be8daf8375ca5ed944b3c43b75cb893ac58b6-1600x1600.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/niah-steiner-ankah-2026"
     },
     {
       "date": "2026-12-12",
@@ -1160,7 +1114,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/warhaus-2027"
+      "url": "https://train.dk/kalender/warhaus-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b74009c89f5fb62e27bdac99dd2c6603d061c757-2000x2392.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-11",
@@ -1177,7 +1132,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/panzerchrist-2027"
+      "url": "https://train.dk/kalender/panzerchrist-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/77f1015009e4a97ecfd962382118d5f2120eb79b-4902x3268.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-11",
@@ -1534,6 +1490,15 @@
       "note": "",
       "url": "https://train.dk/kalender/saad-tiouly-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c0311b49ef229f62f32722b13acf29cb82bcf4d1-1920x1280.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-19",
+      "artist": "JONATHAN",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/jonathan-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c01218ace64711c1e508ec26126418aa299fb245-1600x1671.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }

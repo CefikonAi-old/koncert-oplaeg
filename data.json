@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-19 13:46",
+  "opdateret": "2026-11-20 13:28",
   "vindue": [
-    "2026-11-19",
-    "2027-03-19"
+    "2026-11-20",
+    "2027-03-20"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,80 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 91,
-      "hentet": "2026-11-19"
+      "count": 88,
+      "hentet": "2026-11-20"
     },
     "v": {
       "ok": true,
-      "count": 28,
-      "hentet": "2026-11-19"
+      "count": 29,
+      "hentet": "2026-11-20"
     },
     "m": {
       "ok": true,
-      "count": 37,
-      "hentet": "2026-11-19"
+      "count": 36,
+      "hentet": "2026-11-20"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-19"
+      "hentet": "2026-11-20"
     }
   },
   "events": [
-    {
-      "date": "2026-11-19",
-      "artist": "Allan Olsen & Det Sidste Slæng",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/allan-olsen-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/32a49c2ae0bc02dbe6b894b6314d0afe37da83c8-5000x2805.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-19",
-      "artist": "Dahlin",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/dahlin-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ababa4757367cb62b9706e4a097cbfa1237e8ff8-3641x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-19",
-      "artist": "Klaveraften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/klaveraften-28",
-      "image": "https://www.datocms-assets.com/98810/1761627624-rama_komponistklassen_dsc3173_header-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-19",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-6",
-      "image": "https://www.datocms-assets.com/98810/1788498084-rama_aarhus_header_sang2-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-19",
-      "artist": "Next Gen 2026",
-      "venue": "v",
-      "status": "",
-      "note": "Tjek type: ikke angivet på siden",
-      "url": "https://voxhall.dk/koncerter/next-gen-2026/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/09/1350x1080-VAeXT.jpg"
-    },
-    {
-      "date": "2026-11-19",
-      "artist": "Vilma",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/vilma-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ee0e51569655b346f6d7e4482327a54e782ce353-4000x3492.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-20",
       "artist": "Junkyard Drive",
@@ -251,7 +197,7 @@
     },
     {
       "date": "2026-11-26",
-      "artist": "100%WET",
+      "artist": "100%WET + Support Lisha",
       "venue": "v",
       "status": "",
       "note": "",
@@ -323,7 +269,7 @@
     },
     {
       "date": "2026-11-27",
-      "artist": "Michael Williams",
+      "artist": "Michael Williams + support Danjoo",
       "venue": "v",
       "status": "",
       "note": "",
@@ -628,6 +574,15 @@
       "image": "https://voxhall.dk/wp-content/uploads/2026/10/Vulvatorius-2.jpg"
     },
     {
+      "date": "2026-12-06",
+      "artist": "Brantelid/Hadland Duo",
+      "venue": "m",
+      "status": "Få tilbage",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/brantelid-hadland-duo",
+      "image": "https://www.datocms-assets.com/98810/1782201694-feature_34217.png?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-12-07",
       "artist": "Q Marsden",
       "venue": "t",
@@ -722,7 +677,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/niah-steiner-ankah-2026"
+      "url": "https://train.dk/kalender/niah-steiner-ankah-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/af2be8daf8375ca5ed944b3c43b75cb893ac58b6-1600x1600.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-12",
@@ -1065,6 +1021,15 @@
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/13638ccb63f8b8c847f0ae6c3c500babba3bcac1-4189x5584.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
+      "date": "2027-02-05",
+      "artist": "Jakob Bro / Mark Turner / Thomas Morgan / Jakob Høyer",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/jakob-bro-mark-turner-thomas-morgan-jakob-hoeyer/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/11/Jakob-Bro-2-1576x1920.jpg"
+    },
+    {
       "date": "2027-02-06",
       "artist": "Hugorm",
       "venue": "t",
@@ -1302,6 +1267,15 @@
       "note": "",
       "url": "https://train.dk/kalender/ibens-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/943d0675abecbc5760f5f4858011442154f92a0b-5283x3522.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-26",
+      "artist": "Bob Marley Celebration & Tribute Concert",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/bob-marley-celebration-tribute-concert_2027/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/11/BobMarley-2-1873x1920.jpg"
     },
     {
       "date": "2027-02-26",

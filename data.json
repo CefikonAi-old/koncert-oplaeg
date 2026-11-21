@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-20 13:28",
+  "opdateret": "2026-11-21 12:56",
   "vindue": [
-    "2026-11-20",
-    "2027-03-20"
+    "2026-11-21",
+    "2027-03-21"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,53 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 88,
-      "hentet": "2026-11-20"
+      "count": 86,
+      "hentet": "2026-11-21"
     },
     "v": {
       "ok": true,
-      "count": 29,
-      "hentet": "2026-11-20"
+      "count": 28,
+      "hentet": "2026-11-21"
     },
     "m": {
       "ok": true,
       "count": 36,
-      "hentet": "2026-11-20"
+      "hentet": "2026-11-21"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-20"
+      "hentet": "2026-11-21"
     }
   },
   "events": [
-    {
-      "date": "2026-11-20",
-      "artist": "Junkyard Drive",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/junkyard-drive-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/4ceb0c8bbfddb500159eba0f5d1d920a016f6ea2-2362x1326.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-20",
-      "artist": "Prong + Support Grope & Harmful",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/prong/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/07/Prong-2.jpg"
-    },
-    {
-      "date": "2026-11-20",
-      "artist": "dias",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/dias-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e25ab9d035d0fdb57a4a1b6c35b7a9268929c47e-4924x4955.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-21",
       "artist": "Cafékoncert med elever fra Aarhus Musikskole",

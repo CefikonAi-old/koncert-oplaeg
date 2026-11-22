@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-21 12:56",
+  "opdateret": "2026-11-22 12:48",
   "vindue": [
-    "2026-11-21",
-    "2027-03-21"
+    "2026-11-22",
+    "2027-03-22"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,89 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 86,
-      "hentet": "2026-11-21"
+      "count": 84,
+      "hentet": "2026-11-22"
     },
     "v": {
       "ok": true,
-      "count": 28,
-      "hentet": "2026-11-21"
+      "count": 27,
+      "hentet": "2026-11-22"
     },
     "m": {
       "ok": true,
-      "count": 36,
-      "hentet": "2026-11-21"
+      "count": 34,
+      "hentet": "2026-11-22"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-21"
+      "hentet": "2026-11-22"
     }
   },
   "events": [
-    {
-      "date": "2026-11-21",
-      "artist": "Cafékoncert med elever fra Aarhus Musikskole",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/cafekoncert-med-elever-fra-aarhus-musikskole",
-      "image": "https://www.datocms-assets.com/98810/1789560673-cafekoncert_hjemmeside.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-21",
-      "artist": "Carpark North",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/carpark-north-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/22a8b9a9a7f201f31a159f701287eab0f6e05174-3000x3031.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-21",
-      "artist": "Hanne Boel",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/hanne-boel",
-      "image": "https://www.datocms-assets.com/98810/1770271231-feature_31008.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-21",
-      "artist": "Jacob Aksglæde",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/jacob-aksglaede",
-      "image": "https://www.datocms-assets.com/98810/1764324028-feature_30515.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-21",
-      "artist": "Jacob Bellens + Support Lykke",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/jacob-bellens-2/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-1277x1920.jpg"
-    },
-    {
-      "date": "2026-11-21",
-      "artist": "Little North",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/little-north",
-      "image": "https://www.datocms-assets.com/98810/1770287436-feature_31143.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-21",
-      "artist": "Mathias Ranch",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/mathias-ranch-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f1e00f853c76759285ac22a5d961bfccece5e23f-3500x4027.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-22",
       "artist": "Kammermusik-talentcamp 2026",
@@ -556,6 +493,15 @@
       "image": "https://www.datocms-assets.com/98810/1782201694-feature_34217.png?auto=format&fit=max&w=1200"
     },
     {
+      "date": "2026-12-06",
+      "artist": "Kammerkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/kammerkoncert-3",
+      "image": "https://www.datocms-assets.com/98810/1787576477-dsf5399-dimission_24-vav.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-12-07",
       "artist": "Q Marsden",
       "venue": "t",
@@ -563,6 +509,15 @@
       "note": "",
       "url": "https://train.dk/kalender/q-marsden-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f3f7c6d0dcd21d840dcf85d0c7e2a580e4ad882c-3527x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-12-07",
+      "artist": "Syng! Syng! Syng!",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/syng-syng-syng",
+      "image": "https://www.datocms-assets.com/98810/1751895628-feature_15832.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-08",

@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-22 12:48",
+  "opdateret": "2026-11-23 15:12",
   "vindue": [
-    "2026-11-22",
-    "2027-03-22"
+    "2026-11-23",
+    "2027-03-23"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,43 +14,25 @@
     "t": {
       "ok": true,
       "count": 84,
-      "hentet": "2026-11-22"
+      "hentet": "2026-11-23"
     },
     "v": {
       "ok": true,
       "count": 27,
-      "hentet": "2026-11-22"
+      "hentet": "2026-11-23"
     },
     "m": {
-      "ok": true,
-      "count": 34,
-      "hentet": "2026-11-22"
+      "ok": false,
+      "fejl": "0 koncerter fundet efter flere forsøg — siden kan have ændret sig",
+      "beholdt": 32
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-22"
+      "hentet": "2026-11-23"
     }
   },
   "events": [
-    {
-      "date": "2026-11-22",
-      "artist": "Kammermusik-talentcamp 2026",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/kammermusik-talentcamp-2026-afslutningskoncert",
-      "image": "https://www.datocms-assets.com/98810/1793098836-kammermusik_talentcamp_mh.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-22",
-      "artist": "Orkesterfestivalen",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/orkesterfestivalen",
-      "image": "https://www.datocms-assets.com/98810/1768922362-orkesterfestivalen_2026_musikhuset-dk_kun_vaskebjorn_1920x1980.png?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-23",
       "artist": "AFLYST: Træblæserkoncert",

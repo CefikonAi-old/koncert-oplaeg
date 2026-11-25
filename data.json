@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-24 15:08",
+  "opdateret": "2026-11-25 14:49",
   "vindue": [
-    "2026-11-24",
-    "2027-03-24"
+    "2026-11-25",
+    "2027-03-25"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,43 +14,25 @@
     "t": {
       "ok": true,
       "count": 84,
-      "hentet": "2026-11-24"
+      "hentet": "2026-11-25"
     },
     "v": {
       "ok": true,
       "count": 27,
-      "hentet": "2026-11-24"
+      "hentet": "2026-11-25"
     },
     "m": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-11-24"
+      "count": 32,
+      "hentet": "2026-11-25"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-24"
+      "hentet": "2026-11-25"
     }
   },
   "events": [
-    {
-      "date": "2026-11-24",
-      "artist": "Anders Blichfeldt",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/anders-blichfeldt",
-      "image": "https://www.datocms-assets.com/98810/1765281342-anders-blichfeldt_1920x1980.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-24",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-7",
-      "image": "https://www.datocms-assets.com/98810/1788498090-rama_aarhus_header_bas-scaled.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-25",
       "artist": "Koncertcafé Aarhus",
@@ -509,6 +491,15 @@
       "note": "",
       "url": "https://train.dk/kalender/panzerfaust-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc739ee52beb20e60d29501aef4cb08fb695f455-1600x1067.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-12-08",
+      "artist": "Solistkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/solistkoncert-lea-sol-cello-2",
+      "image": "https://www.datocms-assets.com/98810/1795604435-valentinleafreja-29-05-2024-lysere-og-soft-mh.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-08",
@@ -1017,7 +1008,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/panzerchrist-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/77f1015009e4a97ecfd962382118d5f2120eb79b-4902x3268.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8ebe0d2cfa112ef99ed4a0c6c40a274502cc457e-4000x2667.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-11",

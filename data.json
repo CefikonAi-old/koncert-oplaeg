@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-25 14:49",
+  "opdateret": "2026-11-26 14:14",
   "vindue": [
-    "2026-11-25",
-    "2027-03-25"
+    "2026-11-26",
+    "2027-03-26"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,52 +14,25 @@
     "t": {
       "ok": true,
       "count": 84,
-      "hentet": "2026-11-25"
+      "hentet": "2026-11-26"
     },
     "v": {
       "ok": true,
-      "count": 27,
-      "hentet": "2026-11-25"
+      "count": 26,
+      "hentet": "2026-11-26"
     },
     "m": {
       "ok": true,
       "count": 32,
-      "hentet": "2026-11-25"
+      "hentet": "2026-11-26"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-25"
+      "hentet": "2026-11-26"
     }
   },
   "events": [
-    {
-      "date": "2026-11-25",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-8",
-      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_trommer3-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-25",
-      "artist": "Morgensang i Musikhuset",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/morgensang-i-musikhuset",
-      "image": "https://www.datocms-assets.com/98810/1718456220-margrethe-debel-morgensang-1920-x-1980.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-25",
-      "artist": "Týr + Support Twilight Force, Dragonland & Vanaheim",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/tyr/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/06/Tyr-2.jpg"
-    },
     {
       "date": "2026-11-26",
       "artist": "100%WET + Support Lisha",
@@ -512,6 +485,24 @@
     },
     {
       "date": "2026-12-09",
+      "artist": "Bigbandkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/bigbandkoncert-6",
+      "image": "https://www.datocms-assets.com/98810/1750935632-23-mg_5956_header.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-09",
+      "artist": "Kammerkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/kammerkoncert-6",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-09",
       "artist": "Ki!",
       "venue": "t",
       "status": "",
@@ -775,8 +766,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/lifefest-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c29bc33292da7269b7d36732e2bf912554e072a6-3000x3492.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/lifefest-2027"
     },
     {
       "date": "2027-01-22",

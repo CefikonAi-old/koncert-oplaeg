@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-26 14:14",
+  "opdateret": "2026-11-27 14:12",
   "vindue": [
-    "2026-11-26",
-    "2027-03-26"
+    "2026-11-27",
+    "2027-03-27"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,80 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 84,
-      "hentet": "2026-11-26"
+      "count": 82,
+      "hentet": "2026-11-27"
     },
     "v": {
       "ok": true,
-      "count": 26,
-      "hentet": "2026-11-26"
+      "count": 25,
+      "hentet": "2026-11-27"
     },
     "m": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-11-26"
+      "count": 33,
+      "hentet": "2026-11-27"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-26"
+      "hentet": "2026-11-27"
     }
   },
   "events": [
-    {
-      "date": "2026-11-26",
-      "artist": "100%WET + Support Lisha",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/100wet/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/04/100WET-2-1536x1920.jpg"
-    },
-    {
-      "date": "2026-11-26",
-      "artist": "Asta Norr",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/asta-norr-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/65c30c7434b9b515b0a95f7960f2b71947276e17-1904x2021.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-26",
-      "artist": "Augusta Schackinger",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/augustaschackinger-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/12283f89ac0397e7a1a5e1854925fd7046526b92-6000x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-26",
-      "artist": "Clothing Club",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/clothing-club-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/6850c9d33cbf09b0701865256a2b629e6ef655f2-4000x2922.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-26",
-      "artist": "Northern Assembly",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/northern-assembly",
-      "image": "https://www.datocms-assets.com/98810/1780997428-feature_34232.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-26",
-      "artist": "RAMA Classics: Orchestra in Parts",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-faelleskoncert",
-      "image": "https://www.datocms-assets.com/98810/1727348436-dsc_1234.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-27",
       "artist": "Downtown July",
@@ -529,6 +475,33 @@
     },
     {
       "date": "2026-12-10",
+      "artist": "Guitaraften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/guitaraften-8",
+      "image": "https://www.datocms-assets.com/98810/1717079749-guitar-klassisk-2.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-10",
+      "artist": "Händels Messias",
+      "venue": "m",
+      "status": "Få tilbage",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/handels-messias",
+      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32498.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-10",
+      "artist": "London Community Gospel Choir",
+      "venue": "m",
+      "status": "Få tilbage",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/london-community-gospel-choir",
+      "image": "https://www.datocms-assets.com/98810/1779264015-feature_33927.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-10",
       "artist": "Smag På Dig Selv + Support CHÆK",
       "venue": "v",
       "status": "",
@@ -766,7 +739,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/lifefest-2027"
+      "url": "https://train.dk/kalender/lifefest-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c29bc33292da7269b7d36732e2bf912554e072a6-3000x3492.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-22",
@@ -1373,6 +1347,15 @@
       "note": "",
       "url": "https://train.dk/kalender/jonathan-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c01218ace64711c1e508ec26126418aa299fb245-1600x1671.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-27",
+      "artist": "BARCODE",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/barcode-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3ef9e29b3a34704024f09c2f5bbe9bd90df6c636-3000x3090.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }

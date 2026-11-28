@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-27 14:12",
+  "opdateret": "2026-11-28 13:28",
   "vindue": [
-    "2026-11-27",
-    "2027-03-27"
+    "2026-11-28",
+    "2027-03-28"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,80 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 82,
-      "hentet": "2026-11-27"
+      "count": 80,
+      "hentet": "2026-11-28"
     },
     "v": {
       "ok": true,
-      "count": 25,
-      "hentet": "2026-11-27"
+      "count": 24,
+      "hentet": "2026-11-28"
     },
     "m": {
       "ok": true,
       "count": 33,
-      "hentet": "2026-11-27"
+      "hentet": "2026-11-28"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-27"
+      "hentet": "2026-11-28"
     }
   },
   "events": [
-    {
-      "date": "2026-11-27",
-      "artist": "Downtown July",
-      "venue": "t",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://train.dk/kalender/downtown-july-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/a7abd85c9e82bec4d7dff8db98f5a8fb6c138dff-4000x3344.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-27",
-      "artist": "Freja Kirk",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/freja-kirk",
-      "image": "https://www.datocms-assets.com/98810/1763550325-feature_30504.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-27",
-      "artist": "Michael Williams + support Danjoo",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/michael-williams/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-1440x1920.jpg"
-    },
-    {
-      "date": "2026-11-27",
-      "artist": "RAMA Classics: Orchestra in Parts",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-traeblaeserkoncert",
-      "image": "https://www.datocms-assets.com/98810/1786359660-floejter_kirke2026_mh.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-27",
-      "artist": "Sangsoiré",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/sangsoire-3",
-      "image": "https://www.datocms-assets.com/98810/1790845235-sangfryd_2026_1_mh.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-27",
-      "artist": "URO",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/uro-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b2f65bd4f24982604fe095b58202a2ec5a92d58e-5460x6873.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-28",
       "artist": "Bifald",
@@ -508,6 +454,33 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/smag-paa-dig-selv/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2.jpg"
+    },
+    {
+      "date": "2026-12-11",
+      "artist": "Händels Messias",
+      "venue": "m",
+      "status": "Få tilbage",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/handels-messias",
+      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32498.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-11",
+      "artist": "Juleshowet med Danmarks Underholdningsorkester",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/juleshowet-med-danmarks-underholdningsorkester",
+      "image": "https://www.datocms-assets.com/98810/1774429231-feature_32937.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-11",
+      "artist": "Solistkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/solistkoncert-rebecca-vats-jonsson-guitar-3",
+      "image": "https://www.datocms-assets.com/98810/1764766833-rebecca_vats_jonsson_mh.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-12",
